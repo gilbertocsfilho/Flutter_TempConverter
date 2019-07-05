@@ -1,6 +1,6 @@
-# tempconverter
+# TempConverter
 
-A new Flutter project.
+A simple temperature converter made in Flutter / Dart.
 
 ## Getting Started
 
